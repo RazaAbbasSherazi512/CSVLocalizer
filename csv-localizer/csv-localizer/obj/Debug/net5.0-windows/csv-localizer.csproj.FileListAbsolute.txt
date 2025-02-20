@@ -1,0 +1,104 @@
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.exe
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.deps.json
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.json
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.dev.json
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\ref\csv-localizer.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.pdb
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv_localizer.Form1.resources
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.GenerateResource.cache
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfoInputs.cache
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfo.cs
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CoreCompileInputs.cache
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CopyComplete
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\ref\csv-localizer.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.pdb
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.genruntimeconfig.cache
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csprojAssemblyReference.cache
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\rabbas\source\repos\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\ExcelDataReader.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.exe
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.deps.json
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.json
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.dev.json
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\ref\csv-localizer.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.pdb
+D:\CSV_Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csprojAssemblyReference.cache
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv_localizer.Form1.resources
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.GenerateResource.cache
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfoInputs.cache
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfo.cs
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CoreCompileInputs.cache
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CopyComplete
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\ref\csv-localizer.dll
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.pdb
+D:\CSV_Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.genruntimeconfig.cache
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.exe
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.deps.json
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.json
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.dev.json
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.dll
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\ref\csv-localizer.dll
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.pdb
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.AssemblyReference.cache
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv_localizer.Form1.resources
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.GenerateResource.cache
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfoInputs.cache
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfo.cs
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CoreCompileInputs.cache
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CopyComplete
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.dll
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\ref\csv-localizer.dll
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.pdb
+D:\Projects\In Progess\Book Shop\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.genruntimeconfig.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.exe
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.deps.json
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.json
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.dev.json
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.dll
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.pdb
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.AssemblyReference.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv_localizer.Form1.resources
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.GenerateResource.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfoInputs.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfo.cs
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CoreCompileInputs.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.dll
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\ref\csv-localizer.dll
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.pdb
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.genruntimeconfig.cache
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.sourcelink.json
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-loca.D5CB7068.Up2Date
+D:\Projects\In Progess\CSV Localizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\refint\csv-localizer.dll
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.exe
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.deps.json
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.json
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.runtimeconfig.dev.json
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.dll
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\csv-localizer.pdb
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.AssemblyReference.cache
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv_localizer.Form1.resources
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.GenerateResource.cache
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfoInputs.cache
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.AssemblyInfo.cs
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.csproj.CoreCompileInputs.cache
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.sourcelink.json
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-loca.D5CB7068.Up2Date
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.dll
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\refint\csv-localizer.dll
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.pdb
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\csv-localizer.genruntimeconfig.cache
+C:\Users\Raza Abbas\source\repos\CSVLocalizer\csv-localizer\csv-localizer\obj\Debug\net5.0-windows\ref\csv-localizer.dll

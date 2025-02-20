@@ -1,0 +1,6 @@
+D:\New folder\csv-localizer.exe
+D:\New folder\csv-localizer.dll
+D:\New folder\csv-localizer.deps.json
+D:\New folder\csv-localizer.runtimeconfig.json
+D:\New folder\csv-localizer.pdb
+D:\New folder\CsvHelper.dll

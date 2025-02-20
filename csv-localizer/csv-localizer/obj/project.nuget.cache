@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7z3wG0TCLc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raza Abbas\\source\\repos\\CSVLocalizer\\csv-localizer\\csv-localizer\\csv-localizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raza Abbas\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512",
+    "C:\\Users\\Raza Abbas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
